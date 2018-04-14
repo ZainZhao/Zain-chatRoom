@@ -8,7 +8,7 @@
   
    <filter>
 		<filter-name>doFilter</filter-name>
-		<filter-class>com.fh.DoFilter</filter-class>
+		<filter-class>com.zy.DoFilter</filter-class>
   </filter>
   
   <welcome-file-list>
